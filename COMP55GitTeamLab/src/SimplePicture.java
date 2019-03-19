@@ -19,6 +19,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("Stop", 200, 110);
 		GLabel slabel = new GLabel("oj");
+		add(slabel);
 		add(label);
 	}
 }
