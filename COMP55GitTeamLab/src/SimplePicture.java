@@ -1,6 +1,7 @@
 //comment one
 //comment two
 //another comment
+//two changes
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
