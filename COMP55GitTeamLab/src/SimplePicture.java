@@ -17,11 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
-<<<<<<< HEAD
-		GLabel label = new GLabel("How you feel when I am me, Arshita", 200, 400);
-=======
 		GLabel label = new GLabel("How I feel when I am me/Marty", 200, 400);
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-ram.git
 		add(label);
 	}
 }
